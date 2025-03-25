@@ -9,7 +9,7 @@ public class main {
 		System.out.println("Aritz");
 		
 =======
-		System.out.println("Aritza pihghgcha");
+		System.out.println("Ariawdtza pihghgcha");
 
 >>>>>>> branch 'main' of https://github.com/ibai122/ejemplo.git
 	}
